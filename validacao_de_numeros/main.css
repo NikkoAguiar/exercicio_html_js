@@ -37,7 +37,7 @@ button:hover{
 }
 
 .mensagem_erro{
-    font-size: 12px;
+    /* font-size: 12px; */
     padding: 8px;
     background-color: red;
     color: aliceblue;
@@ -48,6 +48,13 @@ button:hover{
 .mensagem_sucesso{
     background-color: #27ae60;
     color: aliceblue;
-    padding: 16px;
+    padding: 8px;
+    display: none;
+}
+
+.mensagem_igual{
+    background-color: coral;
+    color: floralwhite;
+    padding: 8px;
     display: none;
 }
