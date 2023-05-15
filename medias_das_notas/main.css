@@ -57,3 +57,7 @@ a{
     padding: 8px;
     color: black;
 }
+
+.label1{
+    display: none;
+}
